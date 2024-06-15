@@ -1,0 +1,76 @@
+('C:\\Users\\shaur\\OneDrive\\Documents\\vscode\\passsword '
+ 'game\\build\\passwordgame\\passwordgame.pkg',
+ {'BINARY': True,
+  'DATA': True,
+  'EXECUTABLE': True,
+  'EXTENSION': True,
+  'PYMODULE': True,
+  'PYSOURCE': True,
+  'PYZ': False,
+  'SPLASH': True,
+  'SYMLINK': False},
+ [('pyi-contents-directory _internal', '', 'OPTION'),
+  ('PYZ-00.pyz',
+   'C:\\Users\\shaur\\OneDrive\\Documents\\vscode\\passsword '
+   'game\\build\\passwordgame\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'C:\\Users\\shaur\\OneDrive\\Documents\\vscode\\passsword '
+   'game\\build\\passwordgame\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'C:\\Users\\shaur\\OneDrive\\Documents\\vscode\\passsword '
+   'game\\build\\passwordgame\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'C:\\Users\\shaur\\OneDrive\\Documents\\vscode\\passsword '
+   'game\\build\\passwordgame\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'C:\\Users\\shaur\\OneDrive\\Documents\\vscode\\passsword '
+   'game\\build\\passwordgame\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'C:\\Users\\shaur\\OneDrive\\Documents\\vscode\\passsword '
+   'game\\build\\passwordgame\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'C:\\Users\\shaur\\OneDrive\\Documents\\vscode\\passsword '
+   'game\\.venv\\Lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'C:\\Users\\shaur\\OneDrive\\Documents\\vscode\\passsword '
+   'game\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth_nltk',
+   'C:\\Users\\shaur\\OneDrive\\Documents\\vscode\\passsword '
+   'game\\.venv\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\rthooks\\pyi_rth_nltk.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgutil',
+   'C:\\Users\\shaur\\OneDrive\\Documents\\vscode\\passsword '
+   'game\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgres',
+   'C:\\Users\\shaur\\OneDrive\\Documents\\vscode\\passsword '
+   'game\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgres.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   'C:\\Users\\shaur\\OneDrive\\Documents\\vscode\\passsword '
+   'game\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('pyi_rth__tkinter',
+   'C:\\Users\\shaur\\OneDrive\\Documents\\vscode\\passsword '
+   'game\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth__tkinter.py',
+   'PYSOURCE'),
+  ('passwordgame',
+   'C:\\Users\\shaur\\OneDrive\\Documents\\vscode\\passsword '
+   'game\\passwordgame.py',
+   'PYSOURCE')],
+ 'python312.dll',
+ True,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)
